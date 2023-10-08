@@ -25,5 +25,12 @@ I believe that slow starter can also achieve the goals. Let's learn and grow tog
 * `RSNA 2022 Cervical Spine Fracture Detection · (37 / 883), top 5%, solo 🥈`                                                           
 * `RSNA Screening Mammography Breast Cancer Detection · (43 / 1687), top 3%, solo 🥈`                                     
 
+<br/>
+
+***Other Competitions***
+                                                                              
+`PhysioNet / CinC Challenge`                                                                     
+* `Predicting Neurological Recovery from Coma After Cardiac Arrest · (2 / 113), top 1%, team 🥈💵`                                                           
+       
                                                                               
                                                                               
