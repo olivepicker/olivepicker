@@ -23,14 +23,15 @@ I believe that slow starter can also achieve the goals. Let's learn and grow tog
 * `Parkinson's Freezing of Gait Prediction · (15 / 1379), top 2%, solo 🥈🎁`                                                           
 * `HuBMAP + HPA - Hacking the Human Body · (25 / 1175), top 3%, team 🥈`     
 * `RSNA 2022 Cervical Spine Fracture Detection · (37 / 883), top 5%, solo 🥈`                                                           
-* `RSNA Screening Mammography Breast Cancer Detection · (43 / 1687), top 3%, solo 🥈`                                     
+* `RSNA Screening Mammography Breast Cancer Detection · (43 / 1687), top 3%, solo 🥈`
+* `UBC Ovarian Cancer Subtype Classification and Outlier Detection · (52 / 1326), top 4%, solo 🥈`                                  
 
 <br/>
 
 ***Other Competitions***
                                                                               
 `PhysioNet / CinC Challenge`                                                                     
-* `Predicting Neurological Recovery from Coma After Cardiac Arrest · (2 / 113), top 1%, team 🥈💵`                                                           
+* `Predicting Neurological Recovery from Coma After Cardiac Arrest · (2 / 113), top 1%, team 🥇💵`                                                           
        
                                                                               
                                                                               
