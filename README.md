@@ -31,7 +31,7 @@ I believe that slow starter can also achieve the goals. Let's learn and grow tog
 ***Other Competitions***
                                                                               
 `PhysioNet / CinC Challenge`                                                                     
-* `Predicting Neurological Recovery from Coma After Cardiac Arrest · (2 / 113), top 1%, team 🥇💵`                                                           
-       
+* `Predicting Neurological Recovery from Coma After Cardiac Arrest · Hackathon 1st, Challenge 2nd ✌️💵`                                                           
+* `Digitization and Classification of ECG Images · Digitization 2nd, Classification 3nd ✌️💵`  
                                                                               
                                                                               
