@@ -1,6 +1,6 @@
 <div class="icons">
   <a href="https://kaggle.com/methyl">
-    <img align="left" alt="Kaggle" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/330px-Kaggle_logo.png"/>
+    <img align="left" alt="Kaggle" width="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaggle_Logo_2026.svg/250px-Kaggle_Logo_2026.svg.png"/>
   <br />
 </div>
 
